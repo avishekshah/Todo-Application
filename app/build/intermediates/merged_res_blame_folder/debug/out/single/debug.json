@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_main_activity.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_custom_button2.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/custom_button2.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_fragment_update.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/fragment_update.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_radio_box.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/radio_box.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_ic_baseline_supervised_user_circle_24.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/ic_baseline_supervised_user_circle_24.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_ic_delete.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/menu_example_menu.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/menu/example_menu.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_clock.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/clock.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_activity_splash.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_add.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/add.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_ic_menu.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_custom_button3.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/custom_button3.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_ic_baseline_done_all_24.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/ic_baseline_done_all_24.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_recyclerview_item.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/recyclerview_item.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_custom_button.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/custom_button.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_fragment_about.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_box3.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/box3.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_fragment_add_task.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/fragment_add_task.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_fragment_view.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/fragment_view.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_ic_user.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_priority_circle.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/priority_circle.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.todomvvm.app-main-18:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable-v24_radiobox2.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable-v24/radiobox2.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.todomvvm.app-merged_res-16:/layout_main_fragment.xml.flat",
+        "source": "com.example.todomvvm.app-main-18:/layout/main_fragment.xml"
+    }
+]

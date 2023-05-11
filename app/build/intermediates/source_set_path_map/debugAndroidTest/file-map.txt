@@ -1,0 +1,8 @@
+com.example.todomvvm.test.app-androidTest-0 C:\Users\User\Desktop\dma\Todo_App77261163\app\build\generated\res\resValues\androidTest\debug
+com.example.todomvvm.test.app-androidTest-1 C:\Users\User\Desktop\dma\Todo_App77261163\app\build\generated\res\rs\androidTest\debug
+com.example.todomvvm.test.app-mergeDebugAndroidTestResources-2 C:\Users\User\Desktop\dma\Todo_App77261163\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.todomvvm.test.app-mergeDebugAndroidTestResources-3 C:\Users\User\Desktop\dma\Todo_App77261163\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.todomvvm.test.app-merged_res-4 C:\Users\User\Desktop\dma\Todo_App77261163\app\build\intermediates\merged_res\debugAndroidTest
+com.example.todomvvm.test.app-androidTest-5 C:\Users\User\Desktop\dma\Todo_App77261163\app\src\androidTest\res
+com.example.todomvvm.test.app-androidTestDebug-6 C:\Users\User\Desktop\dma\Todo_App77261163\app\src\androidTestDebug\res
+com.example.todomvvm.test.app-core-1.1.0-7 C:\Users\User\Downloads\gradle-7.5\caches\transforms-3\519bd0e36bb27eb9da2ec2d90ecaf731\transformed\core-1.1.0\res
