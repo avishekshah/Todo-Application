@@ -1,6 +1,6 @@
 # 77261163_Avishekshah
 # Todo-Application
-TODO list is a simple web application to save ypur daily task in order not to miss anythings.
+A to-do app is a digital tool designed to help individuals or teams keep track of their tasks and manage their workload more efficiently. It allows users to create, prioritize, and schedule tasks, set reminders, and monitor progress towards completion. By using a to-do app, users can increase productivity and stay organized, making it an essential tool for anyone looking to manage their time effectively.
 ## Feature and Description
 The TODO APP feature include:
 ## user friendly UI
@@ -50,8 +50,9 @@ These are the basic functional requirements of our App that helps to do perform 
 - Splash Screen 
 - Delete Completed
 - Task Share in Gmail
+- Pick a date from calender
 - Validation of TextView while adding new task and updating old task
--pick a date from calender
+
 
 
 
