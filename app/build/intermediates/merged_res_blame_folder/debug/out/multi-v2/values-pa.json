@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.todomvvm.app-mergeDebugResources-14:/values-pa/values-pa.xml",
+            "outputFile": "com.example.todomvvm.app-mergeDebugResources-3:/values-pa/values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\710625fc142add506a931468304c2ae7\\transformed\\appcompat-1.1.0\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\User\\Downloads\\gradle-7.5\\caches\\transforms-3\\710625fc142add506a931468304c2ae7\\transformed\\appcompat-1.1.0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\519bd0e36bb27eb9da2ec2d90ecaf731\\transformed\\core-1.1.0\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\User\\Downloads\\gradle-7.5\\caches\\transforms-3\\519bd0e36bb27eb9da2ec2d90ecaf731\\transformed\\core-1.1.0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

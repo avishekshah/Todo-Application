@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.todomvvm.app-mergeDebugResources-14:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.todomvvm.app-mergeDebugResources-3:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\710625fc142add506a931468304c2ae7\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\User\\Downloads\\gradle-7.5\\caches\\transforms-3\\710625fc142add506a931468304c2ae7\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

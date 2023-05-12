@@ -638,7 +638,7 @@
     <string name="search_menu_title">Search</string>
     <string name="share">Share</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="text">The Answer is Common. A List of Task Which You Have to do and What You want to do . Most typically, they\'re organised in order of priority. Traditionally, they\'re written on a piece of paper or post it notes and acts as a memory aid.</string>
+    <string name="text">The aplication is Common. A List of Task Which You Have to do and What You want to do . Most typically, they\'re organised in order of priority. Traditionally, they\'re written on a piece of paper or post it notes and acts as a memory aid.</string>
     <string name="to_do_application">TODO</string>
     <string name="update_task">Update Task</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
